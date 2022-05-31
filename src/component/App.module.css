@@ -1,0 +1,20 @@
+.flexy {
+  display: flex;
+  border: blue 1px solid;
+  align-items: center;
+  justify-content: left;
+  margin-bottom: 30px;
+}
+
+.flexy > div {
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+.flexy > div:hover {
+  text-decoration: underline;
+}
+
+.lineCrossed {
+  border: 1px solid blue;
+}

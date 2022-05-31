@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "srikanya",
+      "mobile": "7702",
+      "salary": "800000",
+      "gender": "Female",
+      "isMarried": true,
+      "id": 2
+    },
+    {
+      "name": "jai krish",
+      "mobile": "9098987",
+      "salary": "60000",
+      "gender": "",
+      "isMarried": true,
+      "id": 3
+    },
+    {
+      "name": "h",
+      "mobile": "774",
+      "salary": "87946",
+      "gender": "Male",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "name": "jai krish",
+      "mobile": "09098987322",
+      "salary": "45645",
+      "gender": "Male",
+      "isMarried": true,
+      "id": 5
+    },
+    {
+      "name": "k",
+      "mobile": "486414",
+      "salary": "4646",
+      "gender": "Female",
+      "isMarried": false,
+      "id": 6
+    },
+    {
+      "name": "bhism inter",
+      "mobile": "464",
+      "salary": "46",
+      "gender": "Male",
+      "isMarried": true,
+      "id": 7
+    }
+  ]
+}
